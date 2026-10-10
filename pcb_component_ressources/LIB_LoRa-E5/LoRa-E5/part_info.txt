@@ -1,0 +1,9 @@
+Manufacturer=Seeed Studio
+PartNumber=LoRa-E5
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=28
+Version=1.7
+Released=2021-08-10 09:26:19
+Downloaded=2026-07-20 02:51:40
+3D=Y

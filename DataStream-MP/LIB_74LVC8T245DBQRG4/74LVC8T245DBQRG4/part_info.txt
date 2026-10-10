@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=74LVC8T245DBQRG4
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=24
+Version=1.1
+Released=2021-11-18 08:54:53
+Downloaded=2026-07-13 01:25:06
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KL720B3421B
+D Processors - Application Specialized KL720 AI SOC package 9 x 9 1.19mm pitch0.5mm BGA 269 Operating Supply Voltage:	900 mV
+K
+F https://www.mouser.com/catalog/specsheets/Kneron_01292021_KL720B3421B.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD7383-4BCPZ-RL
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=2.1
+Released=2023-05-25 08:22:21
+Downloaded=2026-07-13 01:29:04
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7383-4BCPZ-RL
+D Pseudo Differential Input, Quad, 4 MSPS Simultaneous Sampling, 16-Bit, SAR ADC
+K
+F https://www.analog.com/AD7383-4/datasheet
+$ENDCMP
+#
+#End Doc Library

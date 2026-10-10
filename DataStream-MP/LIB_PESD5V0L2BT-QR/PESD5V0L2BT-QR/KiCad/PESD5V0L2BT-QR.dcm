@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD5V0L2BT-QR
+D PESD5V0L2BT-Q - Low capacitance double bidirectional ESD protection diode in SOT23@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0L2BT-Q.pdf
+$ENDCMP
+#
+#End Doc Library
